@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_openapi_operation">
+    <sys_openapi_operation action="INSERT_OR_UPDATE">
+        <complex_object_ids>509666d0db8b101092ddcd3f2996192a,5c96ea14db8b101092ddcd3f299619c9,9096ea14db8b101092ddcd3f299619c8,109666d0db8b101092ddcd3f2996192e,d096ea14db8b101092ddcd3f299619cd,549666d0db8b101092ddcd3f2996192c,d89666d0db8b101092ddcd3f2996192f,1896ea14db8b101092ddcd3f299619cb</complex_object_ids>
+        <deprecated>false</deprecated>
+        <http_method>get</http_method>
+        <name>Gets a list of all of the available journey planner modes</name>
+        <openapi display_value="Transport for London Unified API - v1">4c9666d0db8b101092ddcd3f29961926</openapi>
+        <path>/Journey/Meta/Modes</path>
+        <serialized_operation>{"fName":"Gets a list of all of the available journey planner modes","fOperationId":"Journey_Meta","fPath":"/Journey/Meta/Modes","fHttpMethod":"GET","fDeprecated":false,"fResponses":[{"fStatusCode":"200","fDescription":"OK","fContents":[{"fMediaType":"application/json","fSchema":{"fName":"responseapplicationjson5758366194","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"array","fProperties":[{"fName":"responseapplicationjson5758366194","fReferencedName":"#/components/schemas/Tfl.Api.Presentation.Entities.Mode","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}},{"fMediaType":"text/json","fSchema":{"fName":"responsetextjson0006623321","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"array","fProperties":[{"fName":"responsetextjson0006623321","fReferencedName":"#/components/schemas/Tfl.Api.Presentation.Entities.Mode","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}},{"fMediaType":"application/xml","fSchema":{"fName":"responseapplicationxml3004887091","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"array","fProperties":[{"fName":"responseapplicationxml3004887091","fReferencedName":"#/components/schemas/Tfl.Api.Presentation.Entities.Mode","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}},{"fMediaType":"text/xml","fSchema":{"fName":"responsetextxml4713214847","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fType":"array","fProperties":[{"fName":"responsetextxml4713214847","fReferencedName":"#/components/schemas/Tfl.Api.Presentation.Entities.Mode","fExclusiveMaximum":false,"fExclusiveMinimum":false,"fUniqueItems":false,"fRequired":[],"fEnum":[],"fProperties":[],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}],"fOneOf":[],"fNullable":false,"fReadOnly":false,"fWriteOnly":false,"fDeprecated":false,"fGlideType":"object"}}],"fHeaders":[]}],"fParameters":[]}</serialized_operation>
+        <sys_class_name>sys_openapi_operation</sys_class_name>
+        <sys_created_by>nithin</sys_created_by>
+        <sys_created_on>2020-08-31 17:04:12</sys_created_on>
+        <sys_id>9c96ea14db8b101092ddcd3f299619ce</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gets a list of all of the available journey planner modes</sys_name>
+        <sys_package display_value="My First Spoke" source="x_171481_my_spoke">750c9a50db4b101092ddcd3f299619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My First Spoke">750c9a50db4b101092ddcd3f299619db</sys_scope>
+        <sys_update_name>sys_openapi_operation_9c96ea14db8b101092ddcd3f299619ce</sys_update_name>
+        <sys_updated_by>nithin</sys_updated_by>
+        <sys_updated_on>2020-08-31 17:04:12</sys_updated_on>
+    </sys_openapi_operation>
+</record_update>
